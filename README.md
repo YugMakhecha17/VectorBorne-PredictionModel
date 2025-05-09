@@ -16,34 +16,8 @@ This project leverages historical weather and dengue case data to train machine 
 
 ---
 
-##  Project Structure
-
-
----
-
-##  Features
-
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Model Training and Evaluation
-- Visualization of Predictions
-- Accuracy and Confusion Matrix Reports
-
----
-
-##  Requirements
-
-Make sure you have the following Python libraries installed:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-git clone https://github.com/YugMakhecha17/DenguePredictionModel.git
-cd DenguePredictionModel
-
-jupyter notebook DenguePredictionModel.ipynb
-
-
-The project compares three classification models and evaluates them using:
+##  What it does:
+The project compares models and evaluates them using:
 
 Accuracy score
 
@@ -55,3 +29,24 @@ Based on these metrics, the most effective model is selected for potential deplo
 
 🤝 Contributing
 Feel free to fork the repo and submit pull requests. Any suggestions to improve the model or code are welcome!
+
+
+---
+
+##  Features
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Model Training and Evaluation
+- Visualization of Predictions
+- Accuracy and Confusion Matrix Reports
+  
+
+---
+
+##  Requirements
+
+You can perform this project on Google Colab or Jupyter Notebook. 
+
+
+
